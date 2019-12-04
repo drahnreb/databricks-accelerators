@@ -50,7 +50,7 @@ line 61:
 line 65:
 `  val arrow = "0.12.0"`
 
-3. add env variable (based on [#71](https://github.com/twosigma/flint/issues/71):
+3. add env variable (based on [#71](https://github.com/twosigma/flint/issues/71)):
 ```bash
 export TERM=xterm-color
 ```
